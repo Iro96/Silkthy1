@@ -17,7 +17,7 @@ An experienced and impact-driven AI/ML engineer with 5+ years in designing, buil
 - PyTorch, TensorFlow, Keras, Hugging Face Transformers  
 - MLflow, Weights & Biases, DVC
 
-### 🗣️ NLP & LLMs
+### 🎓 NLP & LLMs
 - BERT, RoBERTa, GPT-based models  
 - sentence-transformers (SBERT), spaCy, LangChain  
 - Fine-tuning transformer models on domain-specific datasets
